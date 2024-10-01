@@ -20,7 +20,11 @@
   
 ## Screenshots
 
-[Screenshot of Horizon Chasers UI](./output_screenshot.png)
+[Screenshots of Horizon Chasers UI](./output_screenshot.png)
+![Screenshot 1](./Screenshot1.png)  
+![Screenshot 2](./Screenshot2.png)  
+![Screenshot 3](./Screenshot3.png)  
+![Screenshot 4](./Screenshot4.png)  
 
 ## Application Domain
 
